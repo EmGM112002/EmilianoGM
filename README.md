@@ -1,11 +1,12 @@
 # Resume
 
-### Exams
+## Exams
 1. SOA Probability(P) - Nov 2024
 
 
-### Education
-Actuary Degree - La Salle 2021 - 2025
+## Education
+**Bachelor’s Degree in Actuarial Science (Expected)
+  La Salle University – Expected 2025.
 
 ### Work Experience
 **Traineer at McDonald's (2021 -2022)
@@ -14,5 +15,5 @@ Actuary Degree - La Salle 2021 - 2025
 **General employee at Zara (IDITEX) (2022 - 2023)
   - Develop skills to orgnize pripority task under preassure and Problem-solving for unforeseen challenges.
 
-### Proyects
+## Proyects
 - 
