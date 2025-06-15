@@ -54,7 +54,7 @@ app.layout = html.Div([
             id='select-year',
             options=[{'label': i, 'value': i} for i in year_list],
             value='Select-year',
-            placeholder='Select year'
+            placeholder='Select-year'
         )),
     html.Div([#TASK 2.3: Add a division for output display
     html.Div(id='output-container', className='chart-grid', style={'display':'flex'}),])
@@ -74,9 +74,9 @@ def update_input_container(selected_statistics):
 #Callback for plotting
 # Define the callback function to update the input container based on the selected statistics
 @app.callback(
-    Output(component_id='output_container', component_property='output-container'),
+    Output(component_id='output-container', component_property='children'),
     [Input(component_id='dropdown-statistics', component_property='value'), 
-    Input(component_id='select-year', component_property='select-year')])
+    Input(component_id='select-year', component_property='value')])
 
 
 def update_output_container(selected_statistics, input_year):
